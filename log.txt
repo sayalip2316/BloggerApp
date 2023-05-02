@@ -1,0 +1,10 @@
+GET 200 165 442.342 ms Tue, 02 May 2023 10:39:55 GMT 1.1/articles 
+
+::ffff:127.0.0.1 - GET /articles HTTP/1.1 02/May/2023:10:52:46 +0000
+
+::ffff:127.0.0.1 - GET /articles HTTP/1.1 Tue, 02 May 2023 10:53:43 GMT
+
+req.connection.remoteAddress GET /articles HTTP/1.1 Tue, 02 May 2023 10:54:49 GMT
+
+::ffff:127.0.0.1 GET /articles HTTP/1.1 Tue, 02 May 2023 10:57:13 GMT
+
